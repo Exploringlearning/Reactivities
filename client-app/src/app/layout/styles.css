@@ -1,0 +1,8 @@
+
+body{
+    background-color:burlywood !important;
+}
+
+.ui.inverted.top.fixed.menu{
+    background-image: linear-gradient(135deg, rgb(115, 42,24) 0%,rgb(174,138,44) 69%, rgb(167,172,32) 89%) !important;
+}
